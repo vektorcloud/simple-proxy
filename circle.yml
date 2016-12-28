@@ -14,7 +14,7 @@ dependencies:
 
 test:
   override:
-    - docker run -t --entrypoint /bin/sh quay.io/${CIRCLE_PROJECT_USERNAME}/${CIRCLE_PROJECT_REPONAME}:latest -c 'echo'
+    - echo
 
 deployment:
   hub:
