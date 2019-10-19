@@ -1,6 +1,6 @@
 #### simple-proxy
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/simple-proxy)
 
 
 
